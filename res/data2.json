@@ -1,0 +1,9 @@
+{
+    "id": 2,
+    "testInt": 2,
+    "testList": ["one",1,"two",2],
+    "testDict": {
+        "dictOne":1,
+        "dictTwo": 2
+    }
+}
